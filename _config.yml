@@ -1,0 +1,9 @@
+title: Claude Code 更新まとめ（日本語）
+description: Claude Code のリリースノートを自動要約して公開
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+search_enabled: true
+# just-the-docs ネイティブの Mermaid 描画（```mermaid ブロックを描画）
+mermaid:
+  version: "10.9.0"
